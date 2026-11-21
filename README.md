@@ -32,3 +32,5 @@ The cluster names are generic (`ARRAY01` ... `ARRAY06`): add or rename them to m
 Edit the folders at the top of each script (`D:\Dev\...`) and the SQL Server name, then run `start_gathering.ps1`.
 
 Written in 2018 and 2019. Kept for reference, not actively maintained.
+
+Licence: MIT.
